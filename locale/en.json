@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "Image Console Entry",
+    "description": "Adds a tab under Settings → Plugins that opens the dsh-ca-image console, pipeline page, and raw prompts, so nobody has to remember the URL."
+  },
+  "tab": {
+    "label": "Image Console",
+    "title": "Image Console",
+    "subtitle": "Settings, prompts, and generated images all live on this page.",
+    "openConsole": "Open console",
+    "openPipeline": "View pipeline",
+    "openRaw": "View raw prompts",
+    "copy": "Copy address",
+    "copied": "Address copied",
+    "copyFailed": "Copy failed — select the address below",
+    "loading": "Reading status…",
+    "unavailable": "No status: dsh-ca-image is not installed in this profile, or its service is not running.",
+    "backendLabel": "Backend",
+    "dataRootLabel": "Data root",
+    "skillLabel": "Active skill",
+    "commandLabel": "Slash command",
+    "addressLabel": "Address",
+    "footLabel": "Image console"
+  }
+}

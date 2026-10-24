@@ -1,0 +1,8 @@
+# dsh-ca-image-console bundle patch layer.
+#
+# 只挂一行：host 半边是空的，真正的东西在 client.js 里
+# （往「设置 → 插件」区加一个页签，里面是 dsh-ca-image 控制台的三个入口）。
+
+- insert:
+    - id: ca-image-console
+      name: dsh-ca-image-console

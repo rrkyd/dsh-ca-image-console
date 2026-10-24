@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "出图控制台入口",
+    "description": "在「设置 → 插件」里加一个页签，一键打开 dsh-ca-image 的控制台、流程图与原始提示词，不用记网址。"
+  },
+  "tab": {
+    "label": "出图控制台",
+    "title": "出图控制台",
+    "subtitle": "dsh-ca-image 的设置、提示词与出图记录都在这个页面里。",
+    "openConsole": "打开控制台",
+    "openPipeline": "看流程图",
+    "openRaw": "看原始提示词",
+    "copy": "复制地址",
+    "copied": "地址已复制",
+    "copyFailed": "复制失败，手动选中下面的地址",
+    "loading": "正在读状态…",
+    "unavailable": "读不到状态：这个 profile 里没装 dsh-ca-image，或者它的服务没起来。",
+    "backendLabel": "当前后端",
+    "dataRootLabel": "数据根",
+    "skillLabel": "生效技能",
+    "commandLabel": "斜杠命令",
+    "addressLabel": "地址",
+    "footLabel": "出图控制台"
+  }
+}
